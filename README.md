@@ -1,5 +1,5 @@
-README.md Addition: Simulation Engine Prototype 
-Simulation Engine Prototype
+ Simulation Engine Prototype 
+
 This prototype builds the core event-driven engine for a ride-sharing simulation. It processes events (like rider requests and car arrivals) in chronological order using a priority queue (heapq).
 
 Key features:
